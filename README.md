@@ -7,11 +7,13 @@
 - postman
 - newman
 
+
 ### Prerequisites
 - nodejs
   
 ### How to run this project:
 - clone this project
+- Put .env file
 - Give following command:
 - ``` npm i ```
 - ``` npm test ```
